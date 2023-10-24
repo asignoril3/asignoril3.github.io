@@ -8,8 +8,13 @@ h1 {
   font: "Times New Roman";
 }
 
+h2 {
+  color: grey;
+  text-align: center;
+  font: "Times New Roman"
+
 p { 
-  color: light grey;
+  color: mediumseagreen;
   text-align: center;
   font: "Times New Roman";
 }
