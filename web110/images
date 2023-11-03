@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Images and Media</title>
+  </head>
+  <body>
+<img src="pexels-screeny-11839840.jpg" alt="Cold Winter" width="500" height="600" style="border:5px solid black">
+<iframe src="https://www.youtube.com/watch?v=XHbEq0PUfJw" title="Procreate Painting"></iframe>
+<audio controls>
+  <source src="owl_hooting_000102_0145s3-002-070-000-002-068-074-37397.mp3" type="audio/ogg">
+  <source src="owl_hooting_000102_0145s3-002-070-000-002-068-074-37397.mp3" type="audio/mpeg">
+</audio>
+  </body>
+</html>
