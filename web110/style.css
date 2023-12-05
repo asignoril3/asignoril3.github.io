@@ -1,21 +1,21 @@
 body {
-  background-color: aliceblue
+  background-color: black
 }
 
 h1 { 
-  color: grey;
+  color: aliceblue;
   text-align: center;
   font: "Times New Roman";
 }
 
 h2 {
-  color: grey;
+  color: aliceblue;
   text-align: center;
   font: "Times New Roman"
 }
 
 p { 
-  color: mediumseagreen;
+  color: plum;
   text-align: center;
   font: "Times New Roman";
   border-style: dashed;
